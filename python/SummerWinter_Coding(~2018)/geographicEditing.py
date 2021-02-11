@@ -1,3 +1,6 @@
+'''
+
+'''
 def solution(land, P, Q):
     base = []
     for l in land:
