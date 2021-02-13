@@ -1,5 +1,7 @@
 '''
-
+# https://deok2kim.tistory.com/126
+# 아예 없애고 1층씩 만들어가면서 최소값을 찾아간다.
+# 증가하기 시작하면 멈추기
 '''
 def solution(land, P, Q):
     base = []
